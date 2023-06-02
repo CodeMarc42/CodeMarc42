@@ -9,6 +9,7 @@
 <li>👮🏻‍♀️ I like Cybersecurity and Ethical Hacking.</li>
 <li>🧠 I have an interest in Artificial Intelligence.</li>
 <li>🌏 I have expertise in all areas of web development.</li>
+<li>🤳 Have also developed mobile apps and web service APIs.</li>
 <li>♟ I have enjoyed playing chess since I was a child.</li>
 </ul>
 <br>

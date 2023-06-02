@@ -4,7 +4,7 @@
 
 <ul>
 <li>🎓 First Graduated in 42 Barcelona</li>
-<li>🔍 Currently searchign job for my first intership</li>
+<li>🔍 Currently searching job for my first intership</li>
 <li>❤️ Love to code, and learn</li>
 <li>👮🏻‍♀️ Like Cybersecurity</li>
 <li>🧠 Interest in Artificial Inteligence</li>
